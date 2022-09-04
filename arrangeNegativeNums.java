@@ -5,10 +5,10 @@ import java.util.Arrays;
 class arrangeNegativeNums{
     public static void main(String args[]){
         int [] arr ={2, -8, 5, 64, -2, -7};
-        segregateElements(arr);
+        changePostion(arr);
         System.out.println(Arrays.toString(arr));
     }
-    static void segregateElements(int arr[])
+    static void changePostion(int arr[])
     {
         // Your code goes here
         int low = 0;
