@@ -1,5 +1,7 @@
-import java.util.Arrays;
 
+//Move all negative numbers to beginning and positive to end
+
+import java.util.Arrays;
 class arrangeNegativeNums{
     public static void main(String args[]){
         int [] arr ={2, -8, 5, 64, -2, -7};
