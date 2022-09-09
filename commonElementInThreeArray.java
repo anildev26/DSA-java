@@ -8,7 +8,6 @@ public class commonElementInThreeArray {
         int n1 = A.length;
         int n2 = B.length;
         int n3 = C.length;
-        ;
         System.out.println(commonElements(A,B,C,n1,n2,n3));
     }
     static ArrayList<Integer> commonElements(int A[], int B[], int C[], int n1, int n2, int n3)
