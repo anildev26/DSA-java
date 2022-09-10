@@ -4,7 +4,7 @@ public class minimizetheHeights {
     public static void main(String[] args) {
         int k = 2;
         int n = 4;
-        int [] arr = {1, 2, 5, 4};
+        int [] arr = {1, 2, 5, 75};
         System.out.println(getMinDiff(arr,n,k));
 
     }
