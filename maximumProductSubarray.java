@@ -1,6 +1,6 @@
 public class maximumProductSubarray {
     public static void main(String[] args) {
-        int [] arr = {-5, 2, 4, 4, 5, 1, 0};
+        int [] arr = {-5, 2, 11, 4, 5, 1, 0};
         int n = arr.length;
         System.out.println(maxProductSubarray(arr,n));
     }
